@@ -1,4 +1,5 @@
-# Interpreting data from the package 'palmerpenguins' with R
+The purpose of this project is to see how the body mass of a penguin in the 'palmerpenguins' database is affected by one variable (flipper length) and by four variables using OLS regression in R.
+
 Columns containing the species, sex, body mass, flipper length and bill length were used, and rows with missing values in any of these columns were removed.
 
 ## A. Visualizing the relationship between body mass and :
